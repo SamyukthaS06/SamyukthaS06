@@ -5,8 +5,9 @@
 <p align="center">
 📧 <a href="mailto:samyukthasundararajan06@gmail.com">Email Me</a> for Collaboration, Projects, or Just to Say Hi 😊
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
 </p>
 ---
 
