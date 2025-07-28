@@ -1,3 +1,50 @@
+# 💫 Hi 👋, I'm Samyuktha  
+**🎓 Student | Passionate Tech Explorer**
+
+📧 **Email Me:** [samyukthasundararajan06@gmail.com](mailto:samyukthasundararajan06@gmail.com) — for **Collaboration**, **Projects**, or just to say **Hi** 😊✨
+
+---
+
+## 🚀 What I’m Currently Working On
+- 🌾 **Wheat Plant Disease Detection using CNN**  
+   Leveraging image classification and planning to integrate LLMs for smart agricultural guidance.
+- 🫀 **Heart Attack Prediction using Scikit-learn (Random Forest Classifier)**  
+   A smart healthcare project for early risk detection.
+
+---
+
+## 🌱 What I’m Currently Learning
+- 🧠 Deep Learning and CNNs  
+- ☕ Java – Object-Oriented Programming  
+- 🧪 Streamlit for Interactive ML Web Apps  
+- 🌐 HTML, CSS, JavaScript for Web Development
+
+---
+
+## 🤝 I’m Looking to Collaborate On
+- 🔬 AI & ML Projects  
+- 🌿 Agri-Tech Innovations  
+- 📊 Data Visualization Dashboards
+
+---
+
+## 💡 I’m Looking for Help With
+- 🤖 Optimizing model performance  
+- 🌍 Scalable deployment of ML models  
+
+---
+
+## 💬 Ask Me About
+- 💻 Machine Learning and AI  
+- 🐍 Python, Scikit-learn, TensorFlow  
+- 🎯 Real-time ML Projects  
+
+---
+
+## ⚡ Fun Fact  
+_"I build machines that learn — but I never stop learning myself."_ 💙
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samyuktha-sundararajan-778888329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyukthasundhararajan06@gmail.com) 
@@ -18,4 +65,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Samyuktha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
