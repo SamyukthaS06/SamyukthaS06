@@ -1,8 +1,12 @@
-# 💫 Hi 👋, I'm Samyuktha  
+<h1 align="center">👋 Hey there, I'm Samyuktha!</h1>
+
+
 **🎓 Student | Passionate Tech Explorer**
 
 📧 **Email Me:** [samyukthasundararajan06@gmail.com](mailto:samyukthasundararajan06@gmail.com) — for **Collaboration**, **Projects**, or just to say **Hi** 😊✨
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
+</p>
 ---
 
 ## 🚀 What I’m Currently Working On
