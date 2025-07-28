@@ -3,7 +3,7 @@
 🎓 <strong>Second-Year Student at AIML – Artificial Intelligent Machine Learning</strong><br/>
 </p>
 <p align="center">
-📧 <a href="samyukthasundararajan.com">Email Me</a> for Collaboration, Projects, or Just to Say Hi 😊
+📧 <a href="samyukthasundararajan06@gmail.com">Email Me</a> for Collaboration, Projects, or Just to Say Hi 😊
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
