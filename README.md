@@ -1,9 +1,10 @@
-<h1 align="center">👋 Hey there, I'm Samyuktha!</h1>
-
-
-**🎓 Student | Passionate Tech Explorer**
-
-📧 **Email Me:** [samyukthasundararajan06@gmail.com](mailto:samyukthasundararajan06@gmail.com) — for **Collaboration**, **Projects**, or just to say **Hi** 😊✨
+<h1 align="center">💫 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm S.Samyuktha</h1>
+<p align="center">
+🎓 <strong>Second-Year Student at AIML – Artificial Intelligent Machine Learning</strong><br/>
+</p>
+<p align="center">
+📧 <a href="samyukthasundararajan.com">Email Me</a> for Collaboration, Projects, or Just to Say Hi 😊
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
 </p>
